@@ -186,12 +186,15 @@ summary { display: block; }
 
 .sleekslider .slide.active { z-index: 3; }
 
-.sleekslider .bg-1 { background-image: url("../images/img/car01.jpeg"); }
+.sleekslider .bg-1 { background-image: url("../images/img/bg1.jpg"); }
 
-.sleekslider .bg-2 { background-image: url("../images/img/car02.jpeg"); }
+.sleekslider .bg-2 { background-image: url("../images/img/bg2.jpg"); }
 
-.sleekslider .bg-3 { background-image: url("../images/img/car3.jpeg"); }
+.sleekslider .bg-3 { background-image: url("../images/img/bg3.jpg"); }
 
+.sleekslider .bg-4 { background-image: url("../images/img/bg4.jpg"); }
+
+.sleekslider .bg-5 { background-image: url("../images/img/bg5.jpg"); }
 
 .sleekslider .tab-container {
   max-width: 1200px;
@@ -376,7 +379,7 @@ nav.tabs {
   text-align: center;
   width: 100%;
   z-index: 10;
-  background-color:#23b5b9;
+  background-color:#0b1e1f;
 }
 
 nav.tabs ul {
@@ -386,7 +389,7 @@ nav.tabs ul {
 
 nav.tabs ul li {
   float: left;
-  width: 33%;
+  width: 20%;
   font-size: 14px;
   position: relative;
   padding: 0;
